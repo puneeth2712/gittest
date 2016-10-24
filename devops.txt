@@ -1,0 +1,28 @@
+Github
+Amazon Web Services
+Git
+Chef
+Puppet
+Ansible
+Salt
+Docker
+
+GIT commands:
+
+init
+add
+commit
+push 
+pull
+clone
+branches
+
+https://www.youtube.com/watch?v=CaJCmoGIW24 >> AWS
+
+
+Chef
+
+>> belongs under Configuration management
+chef,
+Puppet,Ansible,salt >> configuring the hardware.
+
